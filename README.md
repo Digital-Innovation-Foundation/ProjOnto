@@ -1,2 +1,2 @@
-# projonto
+# ProjOnto
 Project Ontology (ProjOnto)
